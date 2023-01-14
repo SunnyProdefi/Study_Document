@@ -24,3 +24,7 @@ iOS
 app application
 C/S
 5.系统应用商店
+
+VS_C_tips
+1.scanf("%s", name, 40);
+2.char name[40] = {0};
