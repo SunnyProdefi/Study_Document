@@ -1,0 +1,2 @@
+1.gcc/g++编译器安装
+2..vscode_tasks.ison_command添加gcc路径
