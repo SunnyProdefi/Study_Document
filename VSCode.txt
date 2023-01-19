@@ -2,3 +2,6 @@
 2..vscode_tasks.ison_command添加gcc路径
 3.strlen(name)---%lld
 4.sizeof name---%lld
+5.环境配置msys64
+6.文件架构（单级，双级）
+7.X_Document/Book_X(Bilibili_X)/章节
